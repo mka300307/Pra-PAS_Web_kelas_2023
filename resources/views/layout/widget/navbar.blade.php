@@ -8,6 +8,7 @@
             <div class="navbar-nav">
                 <a class="nav-link active" aria-current="page" href="/kopi/coffe">Coffe</a>
                 <a class="nav-link" href="/baristas/barista">Barista</a>
+                <a class="nav-link" href="/toko/all">Toko</a>
             </div>
         </div>
     </div>
