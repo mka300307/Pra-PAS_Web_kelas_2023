@@ -1,7 +1,8 @@
 @extends('layout.main')
 
+
 @section('content')
-    <h1>ini adalah halaman coffe</h1>
+    <h1>ini adalah halaman toko</h1>
 
     <table class="table table-striped table-hover table-bordered">
         <thead class="table-dark">

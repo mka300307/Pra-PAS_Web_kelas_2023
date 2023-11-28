@@ -5,7 +5,7 @@
         <div class="pb-3">
             <a href='{{ url('/toko/all') }}' class="btn btn-danger"> Kembali </a>
         </div>
-        <h1 class="display-4 mb-4">Detail Coffe</h1>
+        <h1 class="display-4 mb-4">Detail Toko</h1>
 
         <div class="form-group p-3" data-aos="fade-up">
             <label for="nama">Nama Toko</label>
