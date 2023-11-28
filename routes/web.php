@@ -23,3 +23,6 @@ Route::get('/kopi/detail/{id}',[CoffeController::class,'show']);
 
 Route::get('/baristas/barista', [\App\Http\Controllers\BaristaController::class,'barista']);
 Route::get('/baristas/detail/{id}', [\App\Http\Controllers\BaristaController::class,'showb']);
+
+Route::get('/toko/all',[\App\Http\Controllers\TokoController::class,'showToko']);
+Route::get('toko/all/{id}',[\App\Http\Controllers\TokoController::class,'detailToko']);

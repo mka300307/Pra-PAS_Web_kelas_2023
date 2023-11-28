@@ -18,12 +18,12 @@
         </div>
 
         <div class="form-group p-3" data-aos="fade-up">
-            <label for="kota">Rilis</label>
+            <label for="kota">Price</label>
             <input type="text" id="kota" name="kota" value="${{ $coffe->price }}.00" class="form-control" readonly>
         </div>
 
         <div class="form-group p-3" data-aos="fade-up">
-            <label for="lahir">Price</label>
+            <label for="lahir">Rilis</label>
             <input type="date" id="lahir" name="lahir" value="{{ $coffe->rilis }}" class="form-control" readonly>
         </div>
     </div>
